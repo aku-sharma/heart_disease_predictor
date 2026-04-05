@@ -58,9 +58,3 @@ The model uses the following input features:
 
 ---
 
-## 💻 How to Run the Project
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/aku-sharma/heart_disease_predictor.git
-cd heart_disease_predictor
