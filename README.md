@@ -6,6 +6,9 @@ This project is a Machine Learning-based web application that predicts the risk 
 The model analyzes various health parameters such as age, cholesterol level, heart rate, and more to provide a prediction along with probability.
 
 ---
+## 🌐 Live Demo  
+👉 Click here to try the app:  
+🔗 [Heart Disease Predictor](https://heartdiseasepredictor-cmw6doiejbznuusus5xcvs.streamlit.app/)
 
 ## 🧠 Features
 - Predicts heart disease risk (0 = No, 1 = Yes)
